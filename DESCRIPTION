@@ -1,9 +1,9 @@
 Package: FortranExample
-Title: What the Package Does (one line, title case)
+Title: Demonstrates How to Use Fortran Code in an R Package
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: What license is it under?
+Authors@R: person("JB", "Duck-Mayr", email = "j.duckmayr@gmail.com", role = c("aut", "cre"))
+Description: Inspired by a Stack Overflow question, 'FortranExample' is an example of how to Use Fortran code in an R package.
+License: GPL (>= 2.0)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.0
