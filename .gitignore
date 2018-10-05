@@ -1,0 +1,3 @@
+# Object and shared object files
+src/*.*o
+
